@@ -1,0 +1,1 @@
+é uma biblioteca de construção de interface que visa a construção de SPA
